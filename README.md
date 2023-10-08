@@ -9,6 +9,7 @@ Welcome to the Target Business Case Study project! In this repository, we explor
 - Extract valuable insights and provide actionable recommendations.
 
 ## Dataset 
+- Dataset link: https://drive.google.com/drive/folders/1u2me-nv6wz8nk7UINKnsm7xM1WwPl1sK?usp=sharing
 - Includes 8 CSV files with detailed information.
 
 ## Skills Utilized
